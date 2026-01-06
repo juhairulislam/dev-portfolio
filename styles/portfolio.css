@@ -53,9 +53,14 @@ body{
 header{
     background-color:#FFF8F3;
     background: url("../images/developer.png") , url("../images/final.png") , #FFF8F3;
-    background-position: 30px 38px,bottom right;
+    background-position:24px 5px ,bottom right;
+    
+    
+    
     background-repeat: no-repeat;
-    padding-top: 50px;
+    padding-top:50 px;
+    
+    
 
 
 
@@ -64,10 +69,11 @@ nav{
     width:71%;
     max-width:1140px ;
     /* border: solid red; */
-    margin: 0px auto;
+    margin:0 auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-top: 50px;
 
 }
 nav .menu{
